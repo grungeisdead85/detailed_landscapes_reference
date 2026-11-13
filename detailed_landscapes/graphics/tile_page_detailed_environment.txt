@@ -1,0 +1,27 @@
+tile_page_detail_environment
+
+[OBJECT:TILE_PAGE]
+
+
+[TILE_PAGE:DETAILED_GRASS]
+	[FILE:images/plants_detail.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:1024]
+
+
+
+[TILE_PAGE:STRANGE_GRASS]
+	[FILE:images/plants_strange.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:640:288]
+
+
+[TILE_PAGE:DETAILED_FLOORS]
+	[FILE:images/floors_detail.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]
+
+[TILE_PAGE:DETAILED_ALT_FLOORS]
+	[FILE:images/floors_detail.bmp]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]

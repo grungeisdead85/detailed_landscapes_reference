@@ -1,0 +1,11 @@
+[ID:detailed_environment]
+[NUMERIC_VERSION:23]
+[DISPLAYED_VERSION:2.3]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:11]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.1]
+[AUTHOR:Poss]
+[NAME:Detailed Landscapes]
+[DESCRIPTION:Adds graphics to 384 vanilla environmental tiles which were in the game but had no visuals. This covers 32 species of grasses, heathers, thistles, reeds, rushes and bamboos.]
+
+
+[STEAM_FILE_ID:2908779064]

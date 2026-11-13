@@ -1,0 +1,83 @@
+tile_page_rounded_hills
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:GRASS_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_grass_detailed.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SOIL_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_soil_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:STONE_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_stone_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:RAMP_OVERLAY_ROUND_DETAILED]
+	[FILE:images/ramps_overlay_lit_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:TECHNICAL_ROUND_DETAILED]
+	[FILE:images/technical_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:SAND_YELLOW_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_yellow_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SAND_WHITE_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_white_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SAND_BLACK_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_black_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SAND_RED_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_red_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SAND_TAN_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_tan_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:SAND_BEIGE_RAMPS_ROUND_DETAILED]
+	[FILE:images/ramps_sand_beige_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:13]
+
+[TILE_PAGE:BLANK_ROUND_DETAILED]
+	[FILE:images/blank_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
+[TILE_PAGE:SHADOWS_RAMP_ROUND_DETAILED]
+	[FILE:images/shadows_ramp_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:9]
+
+[TILE_PAGE:FLOOR_SAND_ROUND_DETAILED]
+	[FILE:images/sand_floor_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:160]
+
+[TILE_PAGE:FLOORS_ROUND_DETAILED]
+	[FILE:images/floors_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]
+
+[TILE_PAGE:ALT_FLOORS_ROUND_DETAILED]
+	[FILE:images/floors_alt_round.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]
